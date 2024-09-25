@@ -1,0 +1,27 @@
+/*
+ * MY COLOR PALETE
+ * Color 1- #D6A2AD
+ * Tan-#C3B59F
+ * Color 3- #A0AF84
+ * Color 4-#668F80
+ * Color 5-#4A6670
+ * */
+
+body {background-color: #EDF2F4;  text-align: center
+}
+button {background-color: #2B2D42; color: #EDF2F4; font-family: "Poppins", sans-serif; font-weight: 300px; width: 150px;padding: 10px; margin: 50px;border: none; border-radius: 15px
+}
+
+button:hover {
+    background-color: #EF233C
+    
+}
+
+h1 {
+    font-family: "Abril Fatface", serif;
+}
+
+h2 {
+    font-family: "Abril Fatface", serif;
+}
+
