@@ -1,3 +1,5 @@
+@media {
+
 h1{
     font-family: "Jost"; font-size: 90px
 }
@@ -26,4 +28,24 @@ h5{ font-style: italic;}
 
 h6{ font-family: "Jost"; font-size: 35px}
 
+ 
+
 #navigation {background-color: #568b68;padding: 20px; text-align: center}
+    
+    
+    
+
+
+
+}
+
+
+@media (min-width:576px) {
+    h1 {
+        font-size:90px;
+    }
+}
+
+
+h4font: italic;}
+
