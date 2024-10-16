@@ -17,20 +17,36 @@ body {background-color: #e7dfd8;
     
 }
 
-button {background-color: #568b68; font-family: "Jost";font-size: 30px;border-radius: 15px; width: 240px;padding: 15px; margin: 50px;border: none;
+#button {background-color: #568b68; font-family: "Jost";font-size: 30px;border-radius: 15px; width: 240px;padding: 15px; margin: 50px;border: none;color: black
 }
 
 h3{font-size: 60px;
  
 }
 
+    h4{
+        padding-bottom: 20px;
+    }
+
 h5{ font-style: italic;}
 
 h6{ font-family: "Jost"; font-size: 35px}
 
- 
+    p {
+        padding-top: 40px;
+    }
+   
 
-#navigation {background-color: #568b68;padding: 20px; text-align: center}
+#navigation {
+    background-color: #568b68;
+    padding: 20px; 
+    text-align: center;
+}
+    
+    #navigation a {
+        color: black;
+        text-decoration: none;
+    }
     
     
     
