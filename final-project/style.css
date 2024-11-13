@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+}
+
+#topper{
+    background-image: url(headingimage.webp);
+    background-size: cover;
+}
+
+h1{
+    margin: 0px 0px 400px 0px;
+    color: white;
+    font-family: "Lora", serif;
+    font-weight: bold;
+}
+
+h2{
+    color: white;
+    font-family: "Lora", serif;
+    font-style: italic;
+}
