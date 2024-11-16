@@ -1,21 +1,33 @@
 img{
-    width: 100%;
-}
+    width: 100%;}
 
 #topper{
     background-image: url(headingimage.webp);
-    background-size: cover;
-}
+    background-size: cover;}
 
 h1{
     margin: 0px 0px 400px 0px;
     color: white;
     font-family: "Lora", serif;
-    font-weight: bold;
-}
+    font-weight: bold;}
 
 h2{
     color: white;
     font-family: "Lora", serif;
-    font-style: italic;
+    font-style: italic;}
+#caption1{ 
+    color: #5d5b5b;
+    text-align: center;
+    font-family: "Lora", serif;
+    font-size: 15px;}
+#author{
+    font-size: 25px;
+    font-family: "Lora", serif;
+    font-weight: bold;
+}
+#date{
+    font-size: 25px;
+    font-family: "Lora", serif;
+    font-weight: bold;
+    color: #5d5b5b;
 }
