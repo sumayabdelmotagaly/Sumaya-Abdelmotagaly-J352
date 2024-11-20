@@ -1,3 +1,5 @@
+@media 
+{
 img{
     width: 100%;}
 
@@ -19,7 +21,8 @@ h2{
     color: #5d5b5b;
     text-align: center;
     font-family: "Lora", serif;
-    font-size: 15px;}
+    font-size: 15px;
+ }
 #author{
     font-size: 25px;
     font-family: "Lora", serif;
@@ -30,4 +33,27 @@ h2{
     font-family: "Lora", serif;
     font-weight: bold;
     color: #5d5b5b;
+}
+#bodytext{
+    width: 700px;
+    margin: auto; 
+
+}
+#disclaimer {
+    font-style: italic;
+    font-size: 14px; 
+}
+
+h3{
+    font-family: "Lora", serif;
+    font-weight: bold;
+    
+}
+
+#photocaptions{
+    color: #5d5b5b;
+    font-size: 11px; 
+}
+@media (min-width:576px)
+    
 }
