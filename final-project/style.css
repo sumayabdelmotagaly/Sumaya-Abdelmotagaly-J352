@@ -3,6 +3,20 @@
 img{
     width: 100%;}
 
+.pullquote{
+    font-family: "Lora", serif;
+    font-weight: bold;
+  }
+#quote{
+    font-size: 40px;
+    text-align: center;
+    }
+    
+ #attribution{
+     font-size: 35px;
+     font-style: italic;
+     text-align: center; 
+    }
 #topper{
     background-image: url(headingimage.webp);
     background-size: cover;}
@@ -37,6 +51,7 @@ h2{
 #bodytext{
     width: 700px;
     margin: auto; 
+    font-family: "Lora", serif;
 
 }
 #disclaimer {
@@ -54,6 +69,8 @@ h3{
     color: #5d5b5b;
     font-size: 11px; 
 }
+    
+
 @media (min-width:576px)
     
 }
