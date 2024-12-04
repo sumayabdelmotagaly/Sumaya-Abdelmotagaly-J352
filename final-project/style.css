@@ -19,18 +19,21 @@ img{
     }
 #topper{
     background-image: url(headingimage.webp);
-    background-size: cover;}
+    background-size: cover;
+    }
 
 h1{
-    margin: 0px 0px 400px 0px;
+    margin: 500px 100px 0px 0px;
     color: white;
     font-family: "Lora", serif;
-    font-weight: bold;}
+    font-weight: bold;
+    font-size: 65px;}
 
 h2{
     color: white;
     font-family: "Lora", serif;
-    font-style: italic;}
+    font-style: italic;
+    font-size; 55px;}
 #caption1{ 
     color: #5d5b5b;
     text-align: center;
@@ -73,4 +76,4 @@ h3{
 
 @media (min-width:576px)
     
-}
+    }
